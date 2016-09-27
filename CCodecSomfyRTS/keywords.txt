@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Time
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+CCodecSomfyRTS	KEYWORD1
+RemoteName	KEYWORD1
+UdpPassWord	KEYWORD1
+RemoteControl	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+t_status	KEYWORD2
+Up	KEYWORD2
+Down	KEYWORD2
+MyStop	KEYWORD2
+MyStopPos	KEYWORD2
+Gate	KEYWORD2
+AddProg	KEYWORD2
+RemoveProg	KEYWORD2
+GetRC	KEYWORD2
+CheckAndroid	KEYWORD2
+CheckProg	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################

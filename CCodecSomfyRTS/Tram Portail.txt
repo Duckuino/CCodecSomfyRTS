@@ -1,0 +1,29 @@
+Clé rouge :
+Bouton 1:
+A4F17A21B11FA 
+Gate
+Command: F0
+Rolling code: 1954
+Adresse: 1B11FA
+
+Bouton 2:
+A4F37B61C11FA 
+Gate
+Command: F0
+Rolling code: 1974
+Adresse: 1C11FA
+
+2ème tel
+Bouton 1:
+A4F56C28111FA 
+Gate
+Command: F0
+Rolling code: 1730
+Adresse: 8111FA
+
+Bouton 2:
+A4FD86D8211FA 
+Gate
+Command: F0
+Rolling code: 2157
+Adresse: 8211FA
